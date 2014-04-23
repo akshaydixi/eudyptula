@@ -1,0 +1,1 @@
+cmd_/home/akshay/yetAnotherWorkspace/eudyptula/task1/1.ko := ld -r -m elf_i386 -T /usr/src/linux-headers-3.13.0-24-generic/scripts/module-common.lds --build-id  -o /home/akshay/yetAnotherWorkspace/eudyptula/task1/1.ko /home/akshay/yetAnotherWorkspace/eudyptula/task1/1.o /home/akshay/yetAnotherWorkspace/eudyptula/task1/1.mod.o
